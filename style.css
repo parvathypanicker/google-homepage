@@ -114,7 +114,7 @@ input[type="submit"]:hover {
 /*Styling Footer Navigation*/
 .fbar{
   position: absolute;
-  top:840px;
+  bottom:0;
   background: #f2f2f2;
   border-top: 1px solid #e4e4e4;
   color: rgba(0,0,0,.54);
